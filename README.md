@@ -1,3 +1,6 @@
-# CH44-gitcollab## Branches
+# CH44-gitcollab
+
+
+## Active branches
 - dev
 - fer-dev
